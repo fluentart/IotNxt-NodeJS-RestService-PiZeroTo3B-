@@ -3,9 +3,9 @@ A Lightweight Node JS Client to connect your low power device to the IoT.nxt Saa
 
 v2.0.1
 
-You can follow the instructional video here : http://youtube.com 
+You can follow the instructional video her start from scrath : https://www.youtube.com/watch?v=DVdypq6D_zs&list=PL-8IgX2Bx5hVou2kqyNVZlRlgdreiwtL0
 Or You can download the PiZero img here and get started : https://github.com/IoT-nxt/ReadyIoTnxt-Images
-
+You can follow the instructional video her start from IMG : https://www.youtube.com/watch?v=DVdypq6D_zs&list=PL-8IgX2Bx5hVou2kqyNVZlRlgdreiwtL0
 
 --------------------------------
 Lets start from scratch 
