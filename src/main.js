@@ -4,7 +4,7 @@ function postToIoTnxt() {
     var packet = { "id": "test", "data": { "x": 1, "y": 2 } }
     const postData = JSON.stringify(packet);
     const options = {
-        hostname: 'TENANTPREFIX.iotnxt.io',
+        hostname: 'prototype.iotnxt.io',
         port: 443,
         path: '/api/v3/data/post',
         method: 'POST',
